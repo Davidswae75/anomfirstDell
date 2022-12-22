@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+.bg-trans{
+    background: linear-gradient(to bottom, #c15cff, #ff5454);
+    height: auto; 
+    min-height: 100vh;
+    width: 100%;
+    padding: 2em 0;
+}
+.carding{
+    position: relative;
+}
+.spa{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 9px;
+    border-radius: 100%;
+    background: white;
+    overflow: hidden;
+}
